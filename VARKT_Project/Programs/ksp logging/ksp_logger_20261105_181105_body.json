@@ -1,7 +1,0 @@
-{
-  "vessel_name": "Спутник-1 Р-7",
-  "body_name": "Earth",
-  "target_sample_interval_s": 0.05,
-  "target_sample_rate_hz": 20.0,
-  "logger_version": "short-csv-1.1"
-}
