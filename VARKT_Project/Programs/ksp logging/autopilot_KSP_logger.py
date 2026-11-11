@@ -15,7 +15,7 @@ import time
 try:
     import krpc
 except ImportError:
-    print("Не найден пакет krpc. Установи: py -m pip install krpc")
+    print("Не найден пакет krpc. Установить: py -m pip install krpc")
     raise SystemExit(1)
 
 try:
